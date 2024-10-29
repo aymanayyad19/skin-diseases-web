@@ -1,0 +1,222 @@
+[
+  {
+   "model_class_num": 0,
+    "Disease": "Acne and Rosacea",
+    "Disease_ar": "حب الشباب والوردية",
+    "Description": "حالة تسبب ظهور البثور أو الوردية (احمرار الوجه).",
+    "Symptoms": "البثور، الاحمرار، التورم.",
+    "Risks": "قد يسبب ندبات أو احمرار دائم.",
+    "Advice": "استخدمي علاجات حب الشباب، واحافظي على نظافة وجهك.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/acne"
+  },
+  {
+    "model_class_num": 1,
+    "Disease": "Actinic Keratosis, Basal Cell Carcinoma, and other Malignant Lesions",
+    "Disease_ar": "التقرن الشعاعي وسرطان الخلايا القاعدية والآفات الخبيثة الأخرى",
+    "Description": "الآفات الجلدية ما قبل السرطانية وسرطان الخلايا القاعدية.",
+    "Symptoms": "بقع خشنة ومتقشرة، كتل شمعية.",
+    "Risks": "وقد يتطور الأمر إلى سرطان الجلد.",
+    "Advice": "تجنب التعرض لأشعة الشمس، استخدم واقيًا من الشمس.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/skin-cancer\/actinic-keratosis-symptoms"
+  },
+  {
+    "model_class_num": 2,
+    "Disease": "Atopic Dermatitis",
+    "Disease_ar": "التهاب الجلد التأتبي",
+    "Description": "حالة جلدية مزمنة تسبب الحكة والتهاب الجلد.",
+    "Symptoms": "بقع حمراء وجافة ومثيرة للحكة على الجلد.",
+    "Risks": "قد يؤدي إلى التهابات جلدية مزمنة.",
+    "Advice": "ترطيب البشرة، وتجنب العوامل المحفزة.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/eczema\/atopic-dermatitis"
+  },
+  {
+    "model_class_num": 3,
+    "Disease": "Bullous Disease",
+    "Disease_ar": "مرض الفقاعات",
+    "Description": "مجموعة من الأمراض التي تسبب ظهور بثور مملوءة بالسوائل.",
+    "Symptoms": "بثور مؤلمة وتآكل الجلد.",
+    "Risks": "يمكن أن يؤدي إلى التهابات أو ندبات.",
+    "Advice": "استشر طبيبًا، وتجنب فتح البثور.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/a-z\/bullous-pemphigoid-overview"
+  },
+  {
+    "model_class_num": 4,
+    "Disease": "Cellulitis, Impetigo, and other Bacterial Infections",
+    "Disease_ar": "التهاب النسيج الخلوي، والقوباء، والالتهابات البكتيرية الأخرى",
+    "Description": "عدوى الجلد البكتيرية التي تسبب الالتهابات والقروح.",
+    "Symptoms": "احمرار، تورم، تقرحات.",
+    "Risks": "قد ينتشر ويسبب عدوى خطيرة.",
+    "Advice": "استخدم المضادات الحيوية، وحافظ على النظافة.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/a-z\/impetigo-overview"
+  },
+  {
+    "model_class_num": 5,
+    "Disease": "Eczema",
+    "Disease_ar": "الأكزيما",
+    "Description": "التهاب الجلد والحكة المزمنة.",
+    "Symptoms": "حكة، احمرار، التهاب الجلد.",
+    "Risks": "يمكن أن يصبح مزمنًا بدون علاج.",
+    "Advice": "ترطيب البشرة، واستخدام الكريمات المضادة للالتهابات.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/eczema"
+  },
+  {
+    "model_class_num": 6,
+    "Disease": "Exanthems and Drug Eruptions",
+    "Disease_ar": "الطفح الجلدي وطفح المخدرات",
+    "Description": "الطفح الجلدي الناجم عن الأدوية أو العدوى.",
+    "Symptoms": "طفح جلدي، شرى، بقع حمراء.",
+    "Risks": "يمكن أن تتفاقم أو تصبح شديدة.",
+    "Advice": "توقف عن تناول الدواء واستشر الطبيب.",
+    "read_more": "https:\/\/pmc.ncbi.nlm.nih.gov\/articles\/PMC6502176\/"
+  },
+  {
+    "model_class_num": 7,
+    "Disease": "Hair Loss, Alopecia, and other Hair Diseases",
+    "Disease_ar": "تساقط الشعر والثعلبة وأمراض الشعر الأخرى",
+    "Description": "حالات تساقط الشعر مثل الثعلبة.",
+    "Symptoms": "تساقط الشعر، ظهور بقع صلعاء.",
+    "Risks": "قد يؤدي إلى تساقط الشعر بشكل دائم.",
+    "Advice": "ابحث عن العلاج المبكر لتساقط الشعر.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/hair-loss\/types\/alopecia"
+  },
+  {
+    "model_class_num": 8,
+    "Disease": "Herpes, HPV, and other STDs",
+    "Disease_ar": "الهربس وفيروس الورم الحليمي البشري والأمراض المنقولة جنسيا الأخرى",
+    "Description": "العدوى الفيروسية التي تنتقل جنسيا.",
+    "Symptoms": "بثور، جروح، ألم.",
+    "Risks": "زيادة خطر انتشار المرض إلى الآخرين.",
+    "Advice": "مارس الجنس بشكل آمن، استشر الطبيب.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/a-z\/herpes-simplex"
+  },
+  {
+    "model_class_num": 9,
+    "Disease": "Light Diseases and Disorders of Pigmentation",
+    "Disease_ar": "أمراض واضطرابات التصبغ الضوئي",
+    "Description": "الحالات التي تؤثر على تصبغ الجلد.",
+    "Symptoms": "بقع فاتحة أو داكنة على الجلد.",
+    "Risks": "قد يؤدي إلى تغيرات دائمة في لون الجلد.",
+    "Advice": "تجنب التعرض لأشعة الشمس، استشر طبيب الأمراض الجلدية.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/a-z\/vitiligo-overview"
+  },
+  {
+    "model_class_num": 10,
+    "Disease": "Melanoma, Skin Cancer, Nevi, and Moles",
+    "Disease_ar": "الورم الميلانيني وسرطان الجلد والوحمات والشامات",
+    "Description": "شكل خطير من سرطان الجلد والشامات غير الطبيعية.",
+    "Symptoms": "شامات غير طبيعية، تغيرات في الحجم أو اللون.",
+    "Risks": "يمكن أن ينتشر إلى أجزاء أخرى من الجسم.",
+    "Advice": "فحص البشرة بشكل دوري واستخدام واقي الشمس.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/skin-cancer\/types\/common\/melanoma\/overview"
+  },
+  {
+    "model_class_num": 11,
+    "Disease": "Nail Fungus and other Nail Disease",
+    "Disease_ar": "فطريات الأظافر وأمراض الأظافر الأخرى",
+    "Description": "العدوى الفطرية للأظافر.",
+    "Symptoms": "أظافر صفراء، سميكة، وهشة.",
+    "Risks": "انتشار الفطريات إلى الأظافر الأخرى أو الجلد.",
+    "Advice": "استخدمي علاجات مضادة للفطريات، وحافظي على أظافرك جافة.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/a-z\/nail-fungus-overview"
+  },
+  {
+    "model_class_num": 12,
+    "Disease": "Poison Ivy and other Contact Dermatitis",
+    "Disease_ar": "اللبلاب السام والتهاب الجلد التماسي الآخر",
+    "Description": "تهيج الجلد بسبب ردود الفعل التحسسية.",
+    "Symptoms": "طفح جلدي أحمر اللون، مع حكة، وبثور.",
+    "Risks": "الحكة أو التندب لفترة طويلة.",
+    "Advice": "اغسل الجلد فورًا واستخدم مضادات الهيستامين.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/itchy-skin\/contact-dermatitis"
+  },
+  {
+    "model_class_num": 13,
+    "Disease": "Psoriasis, Lichen Planus, and related diseases",
+    "Disease_ar": "الصدفية والحزاز المسطح والأمراض المرتبطة بها",
+    "Description": "أمراض الجلد المناعية الذاتية التي تسبب بقع حمراء متقشرة.",
+    "Symptoms": "بقع حمراء متقشرة على الجلد.",
+    "Risks": "يمكن أن يؤدي إلى تلف الجلد الشديد.",
+    "Advice": "ترطيب البشرة، واستخدام العلاجات الموصوفة.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/psoriasis"
+  },
+  {
+    "model_class_num": 14,
+    "Disease": "Scabies, Lyme Disease, and other Infestations and Bites",
+    "Disease_ar": "الجرب ومرض لايم والإصابات واللدغات الأخرى",
+    "Description": "الإصابة بالآفات مثل الجرب ولدغات القراد.",
+    "Symptoms": "حكة، طفح جلدي أحمر، تورم.",
+    "Risks": "قد يسبب إصابات واسعة النطاق.",
+    "Advice": "استخدم العلاجات المضادة للطفيليات.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/a-z\/scabies-overview"
+  },
+  {
+    "model_class_num": 15,
+    "Disease": "Seborrheic Keratoses and other Benign Tumors",
+    "Disease_ar": "التقرن الدهني والأورام الحميدة الأخرى",
+    "Description": "الأورام الجلدية الحميدة غالبا ما ترتبط بالشيخوخة.",
+    "Symptoms": "بقع مرتفعة ذات لون بني أو أسود.",
+    "Risks": "نادرًا ما يشكل مخاطر صحية خطيرة.",
+    "Advice": "لا توجد حاجة عادة إلى العلاج إلا في حالة وجود مشكلة.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/a-z\/seborrheic-keratoses-overview"
+  },
+  {
+    "model_class_num": 16,
+    "Disease": "Systemic Disease",
+    "Disease_ar": "أمراض جهازية",
+    "Description": "الأمراض التي تصيب أعضاء متعددة مثل الذئبة.",
+    "Symptoms": "التعب، الطفح الجلدي، الألم، خلل في وظائف الأعضاء.",
+    "Risks": "قد يسبب تلف الأعضاء أو خلل في وظائفها.",
+    "Advice": "التشخيص المبكر والعلاج أمر بالغ الأهمية.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/a-z\/lupus-overview"
+  },
+  {
+    "model_class_num": 17,
+    "Disease": "Tinea, Ringworm, Candidiasis, and other Fungal Infections",
+    "Disease_ar": "سعفة الرأس، والسعفة، وداء المبيضات، والالتهابات الفطرية الأخرى",
+    "Description": "العدوى الفطرية للجلد.",
+    "Symptoms": "بقع حاكة ومتقشرة على الجلد.",
+    "Risks": "ينتشر إلى أجزاء أخرى من الجسم.",
+    "Advice": "استخدم العلاجات المضادة للفطريات، وحافظ على النظافة.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/a-z\/tinea-versicolor-overview"
+  },
+  {
+    "model_class_num": 18,
+    "Disease": "Urticaria (Hives)",
+    "Disease_ar": "الشرى",
+    "Description": "ردود الفعل التحسسية التي تسبب الحكة.",
+    "Symptoms": "حكة، بقع حمراء مرتفعة.",
+    "Risks": "قد يكون جزءًا من رد فعل تحسسي خطير.",
+    "Advice": "استخدم مضادات الهيستامين، وتجنب المواد المسببة للحساسية.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/a-z\/hives-overview"
+  },
+  {
+    "model_class_num": 19,
+    "Disease": "Vascular Tumors",
+    "Disease_ar": "الأورام الوعائية",
+    "Description": "الأورام الحميدة التي تتكون من الأوعية الدموية.",
+    "Symptoms": "نتوءات جلدية حمراء أو أرجوانية.",
+    "Risks": "عادة ما تكون حميدة ولكنها قد تتطلب العلاج.",
+    "Advice": "استشر الطبيب إذا كانت هذه النموات مزعجة.",
+    "read_more": "https:\/\/pmc.ncbi.nlm.nih.gov\/articles\/PMC4078200/"
+  },
+  {
+    "model_class_num": 20,
+    "Disease": "Vasculitis",
+    "Disease_ar": "التهاب الأوعية الدموية",
+    "Description": "التهاب الأوعية الدموية.",
+    "Symptoms": "طفح جلدي أحمر أو أرجواني، وألم.",
+    "Risks": "قد يؤثر على الأعضاء والأنسجة الحيوية.",
+    "Advice": "اطلب المشورة الطبية في حالة ظهور الأعراض المستمرة.",
+    "read_more": "https:\/\/www.mayoclinic.org\/diseases-conditions\/vasculitis\/symptoms-causes\/syc-20363435"
+  },
+  {
+    "model_class_num": 21,
+    "Disease": "Warts, Molluscum, and other Viral Infections",
+    "Disease_ar": "الثآليل، والورم الرخوي، والالتهابات الفيروسية الأخرى",
+    "Description": "العدوى الفيروسية التي تسبب نمو الجلد مثل الثآليل.",
+    "Symptoms": "نمو جلدي صغير وخشن.",
+    "Risks": "يمكن أن ينتشر إلى مناطق أو أشخاص آخرين.",
+    "Advice": "استخدم العلاجات الموضعية أو قم بإزالة الثآليل.",
+    "read_more": "https:\/\/www.aad.org\/public\/diseases\/a-z\/warts-overview"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "city": "الرياض",
+    "name": "مستشفى الملك فيصل التخصصي ومركز الأبحاث",
+    "contact_number": "+966 11 464 7272",
+    "coordinates": {
+      "latitude": 24.6645,
+      "longitude": 46.6753
+    }
+  },
+  {
+    "city": "جده",
+    "name": "مستشفى الملك فهد العام",
+    "contact_number": "+966 12 660 6111",
+    "coordinates": {
+      "latitude": 21.51,
+      "longitude": 39.1834
+    }
+  },
+  {
+    "city": "الدمام",
+    "name": "مستشفى الملك فهد التخصصي",
+    "contact_number": "+966 13 842 6666",
+    "coordinates": {
+      "latitude": 26.3701,
+      "longitude": 50.0976
+    }
+  },
+  {
+    "city": "المدينة المنورة",
+    "name": "مستشفى الملك فهد العام",
+    "contact_number": "+966 14 842 0516",
+    "coordinates": {
+      "latitude": 24.4667,
+      "longitude": 39.6
+    }
+  },
+  {
+    "city": "مكة",
+    "name": "مستشفى النور التخصصي",
+    "contact_number": "+966 12 556 1166",
+    "coordinates": {
+      "latitude": 21.4225,
+      "longitude": 39.8173
+    }
+  },
+  {
+    "city": "الخبر",
+    "name": "مستشفى الملك فهد الجامعي",
+    "contact_number": "+966 13 896 6666",
+    "coordinates": {
+      "latitude": 26.2811,
+      "longitude": 50.2119
+    }
+  },
+  {
+    "city": "أبها",
+    "name": "مستشفى أبها الخاص",
+    "contact_number": "+966 17 225 7777",
+    "coordinates": {
+      "latitude": 18.22,
+      "longitude": 42.5053
+    }
+  },
+  {
+    "name": "مستشفى الملك خالد",
+    "contact_number": "+966 14 423 0000",
+    "city": "تبوك",
+    "coordinates": {
+      "latitude": 28.3838,
+      "longitude": 36.5519
+    }
+  },
+  {
+    "name": "مستشفى الملك فهد التخصصي",
+    "contact_number": "+966 16 325 5555",
+    "city": "بريدة",
+    "coordinates": {
+      "latitude": 26.3333,
+      "longitude": 43.9667
+    }
+  },
+  {
+    "name": "مستشفى الملك خالد العام",
+    "contact_number": "+966 13 724 0800",
+    "city": "حفر الباطن",
+    "coordinates": {
+      "latitude": 28.4322,
+      "longitude": 45.9704
+    }
+  }
+]
