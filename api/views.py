@@ -38,6 +38,7 @@ class CustomLoginView(TokenObtainPairView):
 
 class CustomTokenObtainPairView(TokenObtainPairView):
     serializer_class = CustomTokenObtainPairSerializer
+
 class RegisterView(APIView):
     permission_classes = [AllowAny]
 
